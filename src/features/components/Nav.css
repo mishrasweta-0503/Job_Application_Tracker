@@ -1,0 +1,14 @@
+.active-link {
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  .pending-link {
+    color: black;
+    /* Other default styles */
+  }
+  .other-links{
+    display: flex;
+    flex-direction: column;
+  }
